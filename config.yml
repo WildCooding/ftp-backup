@@ -1,0 +1,8 @@
+username: user
+password: pw
+host: your.host
+port: 21
+crontab_interval: "* * * * *"
+directorys:
+    - /home/name/any
+destination_directory: /backup
